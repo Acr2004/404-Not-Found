@@ -8,12 +8,19 @@
 
 ## Challenge Colors
 
+**'404 Not Found / Title / Button' Color:** #333333
+**'Subtitle Text' Color:** #4F4F4F
+**'Button Text' Color:** #FFFFFF
+**'Credits Text' Color:** #BDBDBD
 
+## Challenge Fonts
 
-## Challenge Font
-
-
+**'404 Not Found':** Inconsolata - 700
+**'Subtitle':** Space Mono - 400
+**'Title / Button Text':** Space Mono - 700
+**'Credits Text':** Montserrat - 500
+**'Bold Credits Text':** Montserrat - 700
 
 ## Final Result
 
-**Link:** [Click Here]()
+**Link:** [Click Here](https://acr2004.github.io/404-Not-Found/)
